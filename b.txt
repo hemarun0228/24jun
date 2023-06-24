@@ -1,0 +1,11 @@
+This is my forst that i am going to code
+for a project using GIT > then i will commit ( Saving it local git repo)
+
+1. - Creat a file ( Workspace)
+2-  Untill  unless i dont save it. 
+
+3- To make GIT track this particular file git add filename
+ 4 - Save it git commit -m " Message"
+5 - Push it to remote repositary.
+
+
